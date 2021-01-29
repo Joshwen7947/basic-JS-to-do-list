@@ -1,0 +1,18 @@
+#box {
+  text-align: center;
+  font-size: 20px;
+  width: 300px;
+  height: 350px;
+  border: 2px solid;
+  border-radius: 30px;
+  position: absolute;
+  left: 40%;
+  top: 100px;
+}
+
+li {
+  margin-top: 25px;
+  text-align: left;
+  margin-left: 15px;
+}
+/*# sourceMappingURL=styles.css.map */
